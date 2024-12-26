@@ -1,4 +1,0 @@
-# pip install -r requirements.txt
-ultralytics
-PyQt5==5.15.11
-opencv-python==4.7.0.72
